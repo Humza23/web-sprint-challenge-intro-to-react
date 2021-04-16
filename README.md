@@ -61,6 +61,7 @@ Your finished project must include all of the following requirements:
 
 - [ ] Use the following API:
   - [Star Wars API](https://swapi.dev/)
+  <!-- https://swapi.dev/api/people/ -->
 - [ ] Use the documentation and Google to learn how to fetch characters from your API.
 - [ ] Obtain a list of characters. One or several requests might be needed, depending on the API.
 - [ ] Set the list of characters into state.
